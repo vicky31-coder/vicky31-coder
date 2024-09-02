@@ -1,5 +1,10 @@
 # ✨ About Me:
-I'm currently Working on Bifrost ( Location tracker app - React-Native )<br>I'm Looking to collaborate with people who have expirience in Cross platform app development<br>I'm Currently Learning Python and Javascipt with react and React-Native<br>
+Hello everyone!<br>
+I'M vignesh Balaji, An aeronautical engineer and a software developer 
+with expirience on Hybrid app and Web-development<br>
+I'm currently Working on Bifrost ( Location tracker app - React-Native )
+<br>I'm Looking to collaborate with people who have expirience in Cross platform app development
+<br>I'm Currently Learning Python and Javascipt with react and React-Native<br>
 
 
 # 💻 Tech Stack:
