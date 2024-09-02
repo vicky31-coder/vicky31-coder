@@ -2,9 +2,16 @@
 Hello everyone!<br>
 I'M vignesh Balaji, An aeronautical engineer and a software developer 
 with expirience on Hybrid app and Web-development<br>
-I'm currently Working on Bifrost ( Location tracker app - React-Native )
-<br>I'm Looking to collaborate with people who have expirience in Cross platform app development
-<br>I'm Currently Learning Python and Javascipt with react and React-Native<br>
+Working project - Bifrost ( Location tracker app - React-Native )<br>
+Past projects - Womir ( Weather app - React -Native ) <br>
+I Have been working on diffrent projects with the below softwares <br>
+Web-development Stack - MERN <br>
+Cloud Computing - AWS and AZURE <br>
+Vector icon desgins - Affinity designer 2 <br>
+App development - Cross platform - React-Native with expo<br>
+And a little bit of spotify <br>
+Lets collborate for web and cross-platform development people !
+<br>Learning on process - Python and Javascipt with react and React-Native<br>
 
 
 # 💻 Tech Stack:
