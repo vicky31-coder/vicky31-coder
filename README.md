@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ✨ About Me:
 I'm currently Working on Bifrost ( Location tracker app - React-Native )<br>I'm Looking to collaborate with people who have expirience in Cross platform app development<br>I'm Currently Learning Python and Javascipt with react and React-Native<br>
 
 
