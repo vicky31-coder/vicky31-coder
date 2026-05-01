@@ -1,5 +1,5 @@
 # ✨About Me:
-Hello everyone!<br>I'M vignesh Balaji, An aeronautical engineer and a software developer with expirience on Hybrid app and Web-development<br>Working project 
+Hello everyone!<br>I'M vignesh Balaji, An aeronautical engineer and a software developer with expirience on Hybrid app and Web-development
 
 
 ## 🌐 Socials:
